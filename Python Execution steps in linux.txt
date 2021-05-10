@@ -1,0 +1,7 @@
+If you find it cumbersome to write python in the terminal every time you run the script, follow the procedure below:
+
+Prepend #! /usr/bin/python with your script.
+
+Run the following command in your terminal to make the script executable: chmod +x SCRIPTNAME.py
+
+Now, ​simply type ./SCRIPTNAME.py to run the executable script.
